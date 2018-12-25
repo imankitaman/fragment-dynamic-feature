@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="details_page">Details Page</string>
+    <string name="page_loaded_from_dynamic_module">Page loaded from Dynamic Module</string>
+</resources>

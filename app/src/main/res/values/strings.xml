@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dynamic Feature</string>
+    <string name="title_details_feature">Details Page</string>
+</resources>
