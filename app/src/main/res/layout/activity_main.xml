@@ -16,7 +16,7 @@
                 android:layout_margin="8dp"
                 android:gravity="center"
                 android:layout_gravity="center"
-                android:text="Loading Fragment "/>
+                android:text="Open Details Fragment "/>
 
         <Button
                 android:id="@+id/btn_load_activity"
@@ -25,7 +25,7 @@
                 android:layout_margin="8dp"
                 android:gravity="center"
                 android:layout_gravity="center"
-                android:text="Loading Activity "/>
+                android:text="Open Details  Activity "/>
 
     </LinearLayout>
     <FrameLayout

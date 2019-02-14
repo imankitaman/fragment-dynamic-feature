@@ -12,7 +12,7 @@ import ankitaman.`in`.dynamicfeature.BaseSplitFragment
 class DetailsFragment : BaseSplitFragment() {
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        val view = inflater.inflate(R.layout.activity_details, container, false)
+        val view = inflater.inflate(R.layout.details_view, container, false)
         return view
     }
 }

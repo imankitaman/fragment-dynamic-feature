@@ -11,7 +11,7 @@ class DetailsActivity : BaseSplitActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_details)
+        setContentView(R.layout.details_view)
     }
 
 }
